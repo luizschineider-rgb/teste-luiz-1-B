@@ -9,3 +9,11 @@ header{
     margin: 0 auto;
     padding: 20px;
 }
+main{
+    display: flex;
+}
+article {
+  background-color: aliceblue;
+   color: black;
+  text-align: justify;
+}
